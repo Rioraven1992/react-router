@@ -27,4 +27,3 @@ git commit \
 $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
 
 # Deploy
-git push origin main
